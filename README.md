@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-raushan&label=Profile%20views&color=0e75b6&style=flat" alt="akash-raushan" /> </p>
 
-- 👨‍💻 All of my projects are available at my <a href='sites.google.com/view/prakashkumarwebdev'>Portfolio </a>
+- 👨‍💻 All of my projects are available at my <a href='https://sites.google.com/view/prakashkumarwebdev'>Portfolio </a>
 - 📫 How to reach me **prakashkumar01031975@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
