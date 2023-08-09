@@ -2,7 +2,6 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-raushan&label=Profile%20views&color=0e75b6&style=flat" alt="akash-raushan" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-raushan&show_icons=true&locale=en" alt="akash-raushan" /></p>
 
 - 👨‍💻 All of my projects are available at my <a href='https://sites.google.com/view/prakashkumarwebdev'>Portfolio </a>
 - 📫 How to reach me **prakashkumar01031975@gmail.com**
