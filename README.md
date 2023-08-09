@@ -5,7 +5,7 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-raushan&show_icons=true&locale=en" alt="akash-raushan" /></p>-->
 
 - 👨‍💻 All of my projects are available at my <a href='https://sites.google.com/view/prakashkumarwebdev'>Portfolio </a>
-- 📫 How to reach me **prakashkumar01031975@gmail.com**
+- 📫 You can contact me here ➡➡  <a href="Mailto:prakashkumar01031985@gmail.com?subject=CONNECTING FROM GITHUB PROFILE ">MY MAIL </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
